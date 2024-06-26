@@ -117,6 +117,7 @@ nav li
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-around;
+    float: right;
 }
 #logo1
 {
